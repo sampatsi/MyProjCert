@@ -1,0 +1,4 @@
+From php:7.2-apacha
+Maintainer "Sivakumar"
+COPY . /var/www/html
+EXPOSE 80
